@@ -1,0 +1,33 @@
+ CONTENT
+=========
+ 1. Introduction
+ 2. How to access the information
+ 3. Version of C++
+ 4. Testing Environment
+ 5. Operating System
+
+ 1. INTRODUCTION
+-----------------
+ This document is made to instruct the user of the programs, how to access the information and in  which version the coding is done.
+
+ 2. HOW TO ACCESS THE INFORMATION
+----------------------------------
+ The tasks are stored in two forms.
+  1. Source code written in C++ in text file format
+  2. Program file of task written in Exe file format
+
+ 3. VERSION
+------------
+ The tasks of assignment is written in programming language Turbo C++ Ver 3.0.
+
+ 4. TESTING ENVIROMENT
+-----------------------
+ Testing environment for the programs is DOS-based.
+
+ 5. OPERATING SYSTEM
+---------------------
+ Operating system can be following;
+  1. DOS
+  2. Windows 9x
+  3. Windows 2000
+  4. Linux
